@@ -35,7 +35,7 @@ const Login = () =>{
                      </form>
                      <div>
                      <button type = "button" className = "bg-blue w-[200px] h-[40px] rounded -mt-[-30px] -ml-[-45px]"><p className = "text-white font-bold">Login</p></button>  
-                      <p className = "text-blue text-sl -ml-[-85px]">Forgot password?</p>
+                      <p className = "text-blue text-sl -ml-[-85px]">Forgot password??</p>
                      </div>
                      
                 </div>
